@@ -1,0 +1,26 @@
+/*!
+Theme Name: M2EG
+Author: Joël Dion
+Description: Thème Wordpress M2 Entrepreneur général
+Version: 1.0.1
+Text Domain: m2eg
+License: GNU General Public License v2 or later
+*/
+
+@import "partials/_variables.scss";
+@import "partials/_fonts.scss";
+@import "partials/_mixins.scss";
+@import "partials/_header.scss";
+@import "partials/_main.scss";
+@import "partials/_page.scss";
+@import "partials/_soumission.scss";
+@import "partials/_footer.scss";
+@import "partials/_404.scss";
+@import "partials/_home.scss";
+@import "partials/_jobs.scss";
+@import "partials/_portfolio.scss";
+@import "partials/_team.scss";
+@import "partials/_testimonials.scss";
+@import "partials/_contact.scss";
+@import "partials/_lightbox.scss";
+@import "partials/_media-queries.scss";
